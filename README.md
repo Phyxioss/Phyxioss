@@ -41,12 +41,13 @@
    ![PHPS](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
    
 
-
+<p align="center">  
+  <a href="https://tryhackme.com/p/adem.akkaya" target="_blank"><img src="/adem.akkaya.png" alt="TryHackMe"></a>
+</p>
   
-  <a href="https://tryhackme.com/p/adem.akkaya" target="_blank"><img src="/adem.akkaya.png" alt="TryHackMe"></a>  
   [![Phyxioss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phyxioss)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phyxioss)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phyxioss)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
