@@ -42,7 +42,7 @@
    
 
 <p align="center">  
-  <a href="https://tryhackme.com/p/adem.akkaya" target="_blank"><img src="/adem.akkaya.png" alt="TryHackMe"></a>
+  <a href="https://tryhackme.com/p/adem.akkaya" target="_blank"><img src="/thm.png" alt="TryHackMe"></a>
 </p>
   
   [![Phyxioss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phyxioss)](https://github.com/anuraghazra/github-readme-stats)
