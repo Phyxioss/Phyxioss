@@ -9,7 +9,7 @@ Back-End Developer / Cyber Security Student
 * 🌍  I'm based in Ankara, TR
 * 🖥️  See my portfolio at [PhyxsiossDev](http://phyxioss.github.io)
 * ✉️  You can contact me at [ademakkaya5@gmail.com](mailto:ademakkaya5@gmail.com)
-* 🧠  I'm learning I'm trying to improve myself in cyber security and software
+* 🧠  I'm trying to improve myself in cyber security and software
 
 ### Skills
 
