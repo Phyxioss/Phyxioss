@@ -3,6 +3,10 @@
 Hi 👋 My name is Adem Ziya Akkaya
 ========================================================================================================================================
 
+
+<img align="right" alt="GIF" src="https://c.tenor.com/Xr7vp6Wo-SoAAAAC/susanoo-madara.giff"/>
+
+
 Back-End Developer / Cyber Security Student
 -------------------------------------------
 
@@ -10,6 +14,7 @@ Back-End Developer / Cyber Security Student
 * 🖥️  See my portfolio at [PhyxsiossDev](http://phyxioss.github.io)
 * ✉️  You can contact me at [ademakkaya5@gmail.com](mailto:ademakkaya5@gmail.com)
 * 🧠  I'm trying to improve myself in cyber security and software
+
 
 ### Skills
 
