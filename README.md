@@ -34,6 +34,8 @@ Back-End Developer / Cyber Security Student
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Phyxioss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/akkaya.z1ya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adem-ziya-akkaya-430399162" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AdemZiyaAkkaya1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+![](https://komarev.com/ghpvc/?username=Phyxioss&color=blue)
                
 <p align="center">  
   <a href="https://tryhackme.com/p/adem.akkaya" target="_blank"><img src="/thm.png" alt="TryHackMe"></a>
