@@ -4,7 +4,7 @@ Hi 👋 My name is Adem Ziya Akkaya
 ========================================================================================================================================
 
 
-<img align="right" alt="GIF" src="https://c.tenor.com/Xr7vp6Wo-SoAAAAC/susanoo-madara.giff"/>
+<img align="right" alt="GIF" height="350" width="350" src="https://c.tenor.com/Xr7vp6Wo-SoAAAAC/susanoo-madara.giff"/>
 
 
 Back-End Developer / Cyber Security Student
