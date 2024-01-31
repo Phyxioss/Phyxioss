@@ -14,6 +14,7 @@ Back-End Developer / Cyber Security Student
 * 🖥️  See my portfolio at [PhyxsiossDev](http://phyxioss.github.io)
 * ✉️  You can contact me at [ademakkaya5@gmail.com](mailto:ademakkaya5@gmail.com)
 * 🧠  I'm trying to improve myself in cyber security and software
+* 💼  Working at TBTK SGE
 
 
 ### Skills
