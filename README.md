@@ -8,7 +8,6 @@ Hi 👋 My name is Adem Ziya Akkaya
 
 
 Back-End Developer / Cyber Security Student
--------------------------------------------
 
 * 🌍  I'm based in Ankara, TR
 * 🖥️  See my portfolio at [PhyxsiossDev](http://phyxioss.github.io)
